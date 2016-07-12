@@ -1,5 +1,5 @@
 ## Mercury
-*big planet*
+**big** *planet*
 spelt wrong
 - hot
 - near the sun
