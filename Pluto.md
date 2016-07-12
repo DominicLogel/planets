@@ -1,8 +1,8 @@
-### Pluto
+# Pluto
 
 Not a planet anymore
 
-BIG DISAPPOINTMENT ! ! ! ! ! 
+## BIG DISAPPOINTMENT ! ! ! ! ! 
 
 Sad
 - cold
